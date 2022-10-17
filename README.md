@@ -10,7 +10,7 @@ https://finance.yahoo.com/quote/AAPL/history?p=AAPL
 ## How to do this
 **Step 1:** Simply clone this repository
 ```
-git clone 
+git clone https://github.com/jakgritde/simple-data-extracting-with-shell-script.git
 ```
 **Step 2:** Get inside the project
 ```
